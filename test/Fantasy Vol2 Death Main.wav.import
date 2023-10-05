@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cdr3ypb0esfgg"
+path="res://.godot/imported/Fantasy Vol2 Death Main.wav-504097689a25d0e11f5d6c9022037eb3.sample"
+
+[deps]
+
+source_file="res://test/Fantasy Vol2 Death Main.wav"
+dest_files=["res://.godot/imported/Fantasy Vol2 Death Main.wav-504097689a25d0e11f5d6c9022037eb3.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

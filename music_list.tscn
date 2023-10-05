@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://cha538u82njny"]
+
+[ext_resource type="Script" path="res://sonar_audio_list.gd" id="1_ia7ph"]
+
+[node name="music_list" type="Node"]
+script = ExtResource("1_ia7ph")
+bus = null
